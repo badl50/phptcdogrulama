@@ -1,0 +1,2 @@
+# phptcdogrulama
+Devletin bize verdiği SOAP servisi sayesinde, T.C. Kimlik Numarasının gerçekten doğru olup olmadığını kontrol edebiliyoruz. Bunuda PHP’de aşağıdaki şekilde kullanıyoruz. Burada dikkat edilmesi gereken gönderilen ad ve soyad’ın büyük harflerle yazılmasıdır. Aksi taktirde doğrulama işlemi çalışmamaktadır. Eğer bu TCKimlikNoDogrula metodu nereden çıktı, TCKimlikNoDogrulaResult property’sini nasıl elde ettik derseniz SoapClientile bağlandığımız yerden aldık bu bilgileri.
